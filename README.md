@@ -53,8 +53,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hBWsCa9_sb4?si=PAaG9paG_iUTMBRj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/seXWZwbbK48?si=zObtbhQi0U0rgVJd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+- [mlg_03-1_linkpred.pdf](./slide/mlg_03-1_linkpred.pdf)
 - [mlg_03-2_linkpred_attribute.pdf](./slide/mlg_03-2_linkpred_attribute.pdf)
-- [mlg_03-1_linkpred.pdf](./slide/mlg_03-2_linkpred_attribute.pdf)
 
 ## Lecture 4: Advanced Link Prediction
 - 4-1 High-Order Link Prediction
@@ -88,8 +88,8 @@
 
 
 - [mlg_05-1_community_basic.pdf](./slide/mlg_05-1_community_basic.pdf)
-- [mlg_05-2_community_modularity.pdf](./slide/mlg_05-1_community_modularity.pdf)
-- [mlg_05-3_community_louvainlpa.pdf](./slide/mlg_05-1_community_louvainlpa.pdf)
+- [mlg_05-2_community_modularity.pdf](./slide/mlg_05-2_community_modularity.pdf)
+- [mlg_05-3_community_louvainlpa.pdf](./slide/mlg_05-3_community_louvainlpa.pdf)
 
 ## Lecture 6: Recommender Systems - Fundamentals
 - 6-1 Content-based Recommendation and Collaborative Filtering
@@ -104,8 +104,8 @@
 
 
 - [mlg_06-1_recsys_cf.pdf](./slide/mlg_06-1_recsys_cf.pdf)
-- [mlg_06-2_recsys_mf.pdf](./slide/mlg_06-1_recsys_mf.pdf)
-- [mlg_06-3_recsys_fm.pdf](./slide/mlg_06-1_recsys_fm.pdf)
+- [mlg_06-2_recsys_mf.pdf](./slide/mlg_06-2_recsys_mf.pdf)
+- [mlg_06-3_recsys_fm.pdf](./slide/mlg_06-3_recsys_fm.pdf)
 
 ## Lecture 7: More on Fundamental RecSys
 - 7-1 Bayesian Personalized Ranking (BPR)
@@ -117,11 +117,11 @@
 
 
 - [mlg_07-1_recsys_bpr.pdf](./slide/mlg_07-1_recsys_bpr.pdf)
-- [mlg_07-2_recsys_gdbt_lr.pdf](./slide/mlg_07-1_recsys_gdbt_lr.pdf)
+- [mlg_07-2_recsys_gdbt_lr.pdf](./slide/mlg_07-2_recsys_gdbt_lr.pdf)
 
 ## Lecture 8: Recommendation with Deep Learning
-8-1 Deep RecSys (1): From the perspective of CTR prediction
-8-2 Deep RecSys (2): Neural network-based viewpoint of RecSys
+- 8-1 Deep RecSys (1): From the perspective of CTR prediction
+- 8-2 Deep RecSys (2): Neural network-based viewpoint of RecSys
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0YQpluJ6lJM?si=Aluq5kmoE8ngEW6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -129,4 +129,31 @@
 
 
 - [mlg_08-1_recsys_nn1.pdf](./slide/mlg_08-1_recsys_nn1.pdf)
-- [mlg_08-2_recsys_nn2.pdf](./slide/mlg_08-1_recsys_nn2.pdf)
+- [mlg_08-2_recsys_nn2.pdf](./slide/mlg_08-2_recsys_nn2.pdf)
+
+## Lecture 9: Graph Representation Learning (Basic)
+- 9-1: Node Classification
+- 9-2: Graph Representation Learning in Simple Graphs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0bGPSHpVCpA?si=547UarvlTZFaRuIR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf3wkWB4Zx0?si=os-Lba9jm1SQBLrq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- [mlg_09-1_grl_nodecls.pdf](./slide/mlg_09-1_grl_nodecls.pdf)
+- [mlg_09-2_grl_embedding.pdf](./slide/mlg_09-2_grl_embedding.pdf)
+
+## Lecture 10: Graph Neural Networks (Basic)
+- 10-1: GNN Basic Concepts
+- 10-2: GNN Models: GCN, GraphSage, GAT
+- 10-3: GNN for Recommendation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MRPskaS3dKo?si=tfjSN807m_VpwDrZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T_NYWklYGTk?si=pdB7zuqrpiHyRgoa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h-eswFDc1M0?si=UjBZmLir4nNHDTtP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V1UJDJx0gD0?si=h9dLKhZQ4dcYF-u4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- [mlg_10-1_gnn_basic.pdf](./slide/mlg_10-1_gnn_basic.pdf)
+- [mlg_10-2_gcn_graphsage_gat.pdf](./slide/mlg_10-2_gcn_graphsage_gat.pdf)
