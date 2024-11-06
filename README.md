@@ -44,3 +44,33 @@
 
 - [mlg_02-1_properties.pdf](./slide/mlg_02-1_properties.pdf)
 - [mlg_02-2_generative_models.pdf](./slide/mlg_02-2_generative_models.pdf)
+
+## Lecture 3: Link Prediction
+> Link Prediction: recommendation between any types of objects (e.g., users/items) in a graph
+
+- 03-1 Link Prediction
+- 03-2 Link Prediction on Attributed Graphs
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hBWsCa9_sb4?si=PAaG9paG_iUTMBRj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/seXWZwbbK48?si=zObtbhQi0U0rgVJd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- [mlg_03-2_linkpred_attribute.pdf](./slide/mlg_03-2_linkpred_attribute.pdf)
+- [mlg_03-1_linkpred.pdf](./slide/mlg_03-2_linkpred_attribute.pdf)
+
+## Lecture 4: Advanced Link Prediction
+- 4-1 High-Order Link Prediction
+- 4-2 Link Prediction on Signed Graphs
+- 4-3 Link Prediction on Dynamic Graphs
+- 4-4 Link Prediction on Knowledge Graphs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JDKSUYQ0G0o?si=_T6QnUTzxYN1u8Em" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qAV1p8YICWk?si=VwVXulQZ-ns9efqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XHqau836wSM?si=nGucLmNRDnSTHzn6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uG3lGvhWHEk?si=nzIzYpuCkvMwKRqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- [mlg_04-1_linkpred_highorder.pdf](./slide/mlg_04-1_linkpred_highorder.pdf)
+- [mlg_04-2_linkpred_signed.pdf](./slide/mlg_04-2_linkpred_signed.pdf)
+- [mlg_04-3_linkpred_dynamic.pdf](./slide/mlg_04-3_linkpred_dynamic.pdf)
+- [mlg_04-4_linkpred_kg.pdf](./slide/mlg_04-4_linkpred_kg.pdf)
