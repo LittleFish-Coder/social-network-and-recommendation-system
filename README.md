@@ -74,3 +74,35 @@
 - [mlg_04-2_linkpred_signed.pdf](./slide/mlg_04-2_linkpred_signed.pdf)
 - [mlg_04-3_linkpred_dynamic.pdf](./slide/mlg_04-3_linkpred_dynamic.pdf)
 - [mlg_04-4_linkpred_kg.pdf](./slide/mlg_04-4_linkpred_kg.pdf)
+
+## Lecture 5: Community Detection
+- 5-1 Community Detection: Basic
+- 5-2 Edge-Removal Community Detection
+- 5-3 Louvain and Label Propagation Algorithm
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aCPdvU9Yo0I?si=di1QluOurfT89iwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P3XUlJWdZhE?si=D7sdRkMeL2l-YPXl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gf0gGT1WyS0?si=hgC3m8TzCmDvxKw3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+- [mlg_05-1_community_basic.pdf](./slide/mlg_05-1_community_basic.pdf)
+- [mlg_05-2_community_modularity.pdf](./slide/mlg_05-1_community_modularity.pdf)
+- [mlg_05-3_community_louvainlpa.pdf](./slide/mlg_05-1_community_louvainlpa.pdf)
+
+## Lecture 6: Recommender Systems - Fundamentals
+- 6-1 Content-based Recommendation and Collaborative Filtering
+- 6-2 Matrix Factorization
+- 6-3 Factorization Machine
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LN6D1fiyrH0?si=ZVdWUI9YE1KLIH2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZoaPNZSwBKY?si=wboKmWLGcJ1oZvMd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N85fnQuJyqU?si=qdoI264bnzLS6sAm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+- [mlg_06-1_recsys_cf.pdf](./slide/mlg_06-1_recsys_cf.pdf)
+- [mlg_06-2_recsys_mf.pdf](./slide/mlg_06-1_recsys_mf.pdf)
+- [mlg_06-3_recsys_fm.pdf](./slide/mlg_06-1_recsys_fm.pdf)
