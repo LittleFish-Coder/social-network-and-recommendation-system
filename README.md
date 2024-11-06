@@ -157,3 +157,21 @@
 
 - [mlg_10-1_gnn_basic.pdf](./slide/mlg_10-1_gnn_basic.pdf)
 - [mlg_10-2_gcn_graphsage_gat.pdf](./slide/mlg_10-2_gcn_graphsage_gat.pdf)
+
+## Lecture 11: Recommendation with GNN
+- 11-1: RecSys with GNN part 1
+- 11-2: RecSys with GNN part 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UhWdowg9Dkk?si=8-jJyTSK6F-G3yez" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EuNPJ64EoBI?si=72CqduLAkeAcOLd7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- [mlg_11-1_gnn_rec1.pdf](./slide/mlg_11-1_gnn_rec1.pdf)
+- [mlg_11-2_gnn_rec2.pdf](./slide/mlg_11-2_gnn_rec2.pdf)
+
+## Lecture 12: GNN Applications
+12: GNN Applications
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B09V-hx9I6U?si=8g-kJJ7lmh0gD0pW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- [mlg_12_gnn_applications.pdf](./slide/mlg_12_gnn_applications.pdf)
