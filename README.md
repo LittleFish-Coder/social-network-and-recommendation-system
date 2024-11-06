@@ -106,3 +106,27 @@
 - [mlg_06-1_recsys_cf.pdf](./slide/mlg_06-1_recsys_cf.pdf)
 - [mlg_06-2_recsys_mf.pdf](./slide/mlg_06-1_recsys_mf.pdf)
 - [mlg_06-3_recsys_fm.pdf](./slide/mlg_06-1_recsys_fm.pdf)
+
+## Lecture 7: More on Fundamental RecSys
+- 7-1 Bayesian Personalized Ranking (BPR)
+- 7-2 Pre-training Cross Features for RecSys
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TnwGr56V0T4?si=jm8Uj8V8zGLNANdi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzgAVQNfugc?si=YjKPF2nxzCHkhu1K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+- [mlg_07-1_recsys_bpr.pdf](./slide/mlg_07-1_recsys_bpr.pdf)
+- [mlg_07-2_recsys_gdbt_lr.pdf](./slide/mlg_07-1_recsys_gdbt_lr.pdf)
+
+## Lecture 8: Recommendation with Deep Learning
+8-1 Deep RecSys (1): From the perspective of CTR prediction
+8-2 Deep RecSys (2): Neural network-based viewpoint of RecSys
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0YQpluJ6lJM?si=Aluq5kmoE8ngEW6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QU-y5XXu8EE?si=uBJuYq2XRa1PjBEl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+- [mlg_08-1_recsys_nn1.pdf](./slide/mlg_08-1_recsys_nn1.pdf)
+- [mlg_08-2_recsys_nn2.pdf](./slide/mlg_08-1_recsys_nn2.pdf)
