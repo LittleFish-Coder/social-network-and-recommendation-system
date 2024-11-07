@@ -1,7 +1,7 @@
 # Social Network and Recommendation System
 NCKU 111 Spring - Social Network and Recommendation System
 - **Course**：社群網路與推薦系統 Social Network and Recommendation System
-- **Lecturer**：[李政德 Chen-Te Li](https://www.csie.ncku.edu.tw/zh-hant/members/63)
+- **Lecturer**：[李政德 Cheng-Te Li](https://www.csie.ncku.edu.tw/zh-hant/members/63)
 - **Slide**：[Slide](./slide/)
 
 
